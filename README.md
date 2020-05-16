@@ -1,2 +1,2 @@
-# FlipFlopGame
+# CardMatchingGame
 Card Matching game in C# Windows Form App (.NET Framework)
