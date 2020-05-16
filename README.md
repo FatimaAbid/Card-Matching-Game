@@ -1,2 +1,2 @@
 # FlipFlopGame
-Tiles/Card Matching game in C#
+Card Matching game in C#
