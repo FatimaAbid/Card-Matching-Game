@@ -1,0 +1,17 @@
+﻿<Window x:Class="FlipFlopGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="373.135" Width="405.97">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/resources/tan.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Center" Height="314" VerticalAlignment="Center" Width="398" Margin="0,12,0,0">
+            <Image Name="homeimg" Source="resources/home.jpeg" Margin="0,42"/>
+        </Border>
+        <Button Content="Play" x:Name="Play" Click="Play_Click"  Height="28" Width="88" Background="#7FFFFEFE" FontWeight="Bold" FontStyle="Italic" FontSize="20" Margin="156,288,154,10"/>
+
+    </Grid>
+</Window>
+
+    
